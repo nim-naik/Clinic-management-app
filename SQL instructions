@@ -1,0 +1,9 @@
+In backend NySQL database is used, here are some instruction to be followed to setup the database for application.
+SQL instructions -
+1. Create a database hospital.
+2. Create three tables Doctors, Patients and Appointments.
+3. Primary key of Paitent and doctors will be in appointment as they mapped to each other for a particular time and date.
+4. Table Doctors will have columns named id (Primary key), name and specialization (type of doctor).
+5. Table Patients will have columns named id (Primary key), name, age and gende.
+6. Table appointment will have columns named id (Primary key), patient_id (Foregin key), doctor_id (Foregin key) date and time of appointment.
+7. Please enter the data of doctors through database application as it is meant to be feed from backend.
