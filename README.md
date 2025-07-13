@@ -4,12 +4,6 @@
 
 This **Clinic Management System** is a Java-based application designed to manage patient and doctor information in a clinical environment. It provides functionalities to register doctors and patients, view their details, and simulate basic clinic operations through a console-based interface.
 
-### 📁 Project Structure
-.
-├── ClinicManagement.java   # Main class that runs the application and provides the user interface
-├── Doctors.java            # Defines the Doctor class and its related methods
-└── Patient.java            # Defines the Patient class and its related methods
-
 ### 🔧 Features
 
 * Add new doctors and their details (name, specialization, availability)
