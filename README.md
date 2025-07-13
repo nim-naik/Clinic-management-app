@@ -27,6 +27,12 @@ java ClinicManagement.java
 
 ### 🧑‍⚕️ Class Breakdown
 
+#### `ClinicManagement.java`
+
+* Acts as the entry point.
+* Provides a text-based menu to interact with the system.
+* Manages lists of doctors and patients using `ArrayList`.
+
 #### `Doctors.java`
 
 * Represents a doctor.
@@ -38,12 +44,6 @@ java ClinicManagement.java
 * Represents a patient.
 * Stores personal information and medical concerns.
 * Includes methods to access and display patient data.
-
-#### `ClinicManagement.java`
-
-* Acts as the entry point.
-* Provides a text-based menu to interact with the system.
-* Manages lists of doctors and patients using `ArrayList`.
 
 ### 🛠 Requirements
 
