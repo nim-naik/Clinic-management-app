@@ -18,7 +18,7 @@ This **Clinic Management System** is a Java-based application designed to manage
 3. Compile the files using:
 
 cmd command
-javac ClinicManagement.java 
+javac ClinicManagement.java Doctors.java Patient.java
 
 4. Run the main class:
 
